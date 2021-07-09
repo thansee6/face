@@ -1,0 +1,82 @@
+.header
+{
+    width: 100%;
+    height: 90px;
+    background: #9786e4;
+    
+}
+body
+{
+    margin: 0%;
+    font-family:Arial, Helvetica, sans-serif ;background: #f0f2f5;
+
+}
+.logo
+{
+    width: 50%;
+    height:100%;
+    float: left;
+    background: black;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 10px;
+
+}
+.user
+{
+    
+    float: left;
+    font-size: 10px;
+    padding-top: 1%;
+    padding-left: 5%;
+    
+    
+}
+#fb
+{
+    font: bolder;
+    
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+#loginlbl
+
+{
+
+}
+
+#lgnb
+{
+    cursor: pointer;
+}
+.lefts
+{
+ width: 50% ;
+ float: left;
+}
+#img
+{
+    padding-left: 160px;
+    padding-top:120px ;
+    height: ;
+}
+.rights
+{
+  width: 50%;
+  float: left;
+  
+}
+.main
+{
+    padding-left: 140px;
+    padding-top:120px ;
+    height: ;
+
+}
+.para
+{
+    font-style:italic;
+}
